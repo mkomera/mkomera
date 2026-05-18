@@ -46,5 +46,5 @@ Python, FastAPI, LangChain, LangGraph, CrewAI, Neo4j, ChromaDB, Celery, Redis, A
 
 ### Connect
 
-- LinkedIn: [linkedin.com/in/your-id](https://linkedin.com/in/your-id)
+- LinkedIn: [linkedin.com/in/maruthikomera](https://linkedin.com/in/maruthikomera)
 - Email: mail.mkomera@gmail.com
